@@ -18,7 +18,7 @@ Please cite our work if you found the resources in this repository useful:
 
 ```bib
 @misc{grok_4_2025_17096574,
-  author       = {Grok 4 and Li, Jingkai},
+  author       = {{Grok 4} and Li, Jingkai},
   title        = {Personality Traits in Large Language Models: A Psychometric Evaluation},
   month        = sep,
   year         = 2025,
